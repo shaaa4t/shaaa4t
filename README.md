@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Shaat</h1>
 <h3 align="center">A passionate Flutter developer from Palestine</h3>
 
-- 🌱 I’m currently learning **Advanced Database, Web Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/3WAenfS](https://bit.ly/3WAenfS)
 
