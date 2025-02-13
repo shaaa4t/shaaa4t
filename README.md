@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ahmed.sha4t@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3fEd3bh](https://bit.ly/3fEd3bh)
+- 📄 Know about my experiences [linktr.ee/ahmedshaat](linktr.ee/ahmedshaat)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
